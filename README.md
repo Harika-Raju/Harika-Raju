@@ -26,9 +26,19 @@ My focus areas:
 ---
  
 ## 💼 Experience
+
+###🤖 AI & Backend Intern — AidenAI, Hyderabad
+Present
+Working across the full stack at an AI startup — from backend system design to building AI-powered applications.
+
+Spanning backend architecture, system design, and applied AI development
+Working in a fast-paced startup environment across multiple problem domains
+
+Stack: actively expanding across backend systems and AI applications
+---
  
 ### 🛰️ AI Intern — ISRO-ISTRAC (ISRO Telemetry, Tracking and Command Network), Bangalore
-**Aug 2025 – Present**
+**Aug 2025 – Nov 2025**
  
 Building production-grade Agentic AI systems for ISRO's ground operations — designed for offline, mission-critical deployment.
  
