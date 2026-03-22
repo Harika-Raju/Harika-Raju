@@ -112,21 +112,6 @@ A cross-platform app digitally transforming India's wool sector.
  
 ---
 
-🛠️ Tech Stack
-Languages: Python · Dart · JavaScript · C++
-ML/AI: PyTorch · YOLO · EfficientAD · FAISS · BM25 · Sentence Transformers · Scikit-learn · QWEN · Llama (Ollama)
-Agentic AI: CrewAI · LangChain · Multi-agent architectures · RAG pipelines
-Backend: FastAPI · Node.js · MongoDB · SQLite
-Edge/Hardware: Jetson Xavier NX · CUDA · GPU-accelerated inference
-Mobile: Flutter
-Tools: DroneKit · MAVLink · docling · RapidOCR · Git · React
-
-📚 Currently Exploring
-
-MLSys — kernel fusion, memory layout, tiling strategies for efficient inference
-AI chip architecture — how TPUs and NPUs are designed around tensor operations
-CUDA programming for GPU-accelerated ML
-Reading and implementing papers on efficient transformers and model compression
 
 ## 📚 What I'm Currently Exploring
 
